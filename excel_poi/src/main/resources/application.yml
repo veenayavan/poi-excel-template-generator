@@ -1,0 +1,12 @@
+client:
+  template:
+    config:
+      1:
+        displayGrid: false
+        headerRowPosition: 4
+        headerColumnPosition: 3
+        headers:
+          - header1
+          - header2
+          - header3
+          - header4
